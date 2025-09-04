@@ -1,5 +1,8 @@
 # splice-sample-organizer
 
+### Splice removed the ability to browse your sample library after unsubscribing. It's api is private. 
+### I made this program help me to organize my own library, as with most producers I had a titanic amount of samples.
+### Protip: backup your entire splice library and organize before unsubsribing - pay Splice 15$ to do it.
 This program organizes audio files from a Splice Samples folder into a
 specified destination folder based on their content. The folder structure
 and criteria for file organization are as follows:
